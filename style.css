@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(113, 105, 105);
+    color: white;
+    
+}
+.first{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 10px;
+    border-bottom: 3px solid ghostwhite;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+input{
+    margin: 10px 0px;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+.card{
+    margin:0 30%;
+    /* width: 600px; */
+    color: black;
+    padding: 20px;
+    font-size: large;
+}
+#transaction{
+    text-align: center;
+     margin-top: 100px;
+    /* font-size: larger; */
+    display: none;
+}
+.deposit{
+    background-color: slateblue;
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.withdraw{
+    background-color: lightsalmon;
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.balance{
+    background-color: orange;
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.submit-area{
+    background-color: aliceblue;
+    color: black;
+    /* margin-top: 50px; */
+    margin: 50px 40px;
+    padding: 40px;
+    border-radius: 10px;
+    /* box-shadow: 5px 5px 10px; */
+}
